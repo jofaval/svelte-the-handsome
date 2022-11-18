@@ -10,6 +10,7 @@ The canonically socially standard JS/TS framework
 1. [Instructions](#instructions)
    1. [How to install it](#how-to-install-it)
    1. [How to run it](#how-to-run-it)
+1. [Idea](#idea)
 1. [Credits](#credits)
 
 ## Description
@@ -54,6 +55,14 @@ pnpm install
 ```bash
 pnpm run dev
 ```
+
+## Idea
+
+[Back to the contents](#content)
+
+Following the thought that this will be some sort of vscode extension.
+
+Something that would be really nice to sort of integrate in my/any other workflow would be some kind of notebook per file/folder, with the possibility to visualize TODOs, FIXMEs (and custom keywords even) and have some locally stored (at least for now), notepad, per file. That'd be useful, or at least as an idea.
 
 ## Credits
 
