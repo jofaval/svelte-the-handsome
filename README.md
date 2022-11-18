@@ -5,6 +5,7 @@ The canonically socially standard JS/TS framework
 ## Content
 
 1. [Description](#description)
+1. [Tech stack](#tech-stack)
 1. [Motivation](#motivation)
 1. [Instructions](#instructions)
    1. [How to install it](#how-to-install-it)
@@ -13,7 +14,18 @@ The canonically socially standard JS/TS framework
 
 ## Description
 
+[Back to the contents](#content)
+
 As an starting point, I really don't have that much of an idea of what I really want to do with this project, I just want to create something with svelte, I've head it's used for vscode extensions, so maybe I'll do just that.
+
+## Tech stack
+
+[Back to the contents](#content)
+
+- Typescript
+- Svelte (duh!)
+- PNPM (you can use something else, I won't judge, instantly)
+- Vite
 
 ## Motivation
 
