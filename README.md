@@ -8,6 +8,7 @@ The canonically socially standard JS/TS framework
 1. [Tech stack](#tech-stack)
 1. [Motivation](#motivation)
 1. [Instructions](#instructions)
+   1. [How was it created?](#how-was-it-created)
    1. [How to install it](#how-to-install-it)
    1. [How to run it](#how-to-run-it)
 1. [Idea](#idea)
@@ -37,6 +38,20 @@ I wanted to try out Svelte, it feels comfy, nice DX, good set of utilities, and 
 ## Instructions
 
 [Back to the contents](#content)
+
+### How was it created?
+
+[Back to the contents](#content)
+
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+
+```bash
+# create a new project in the current directory
+npm create svelte@latest
+
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
 ### How to install it
 
