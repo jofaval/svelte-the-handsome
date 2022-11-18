@@ -4,6 +4,7 @@ The canonically socially standard JS/TS framework
 
 ## Content
 
+1. [Description](#description)
 1. [Motivation](#motivation)
 1. [Instructions](#instructions)
    1. [How to install it](#how-to-install-it)
