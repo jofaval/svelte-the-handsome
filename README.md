@@ -13,6 +13,7 @@ The canonically socially standard JS/TS framework
    1. [How to run it](#how-to-run-it)
 1. [Idea][#idea]
    1. [Design](#design)
+1. [TODO](#todo)
 1. [Credits](#credits)
 
 ## Description
