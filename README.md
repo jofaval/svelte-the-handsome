@@ -11,7 +11,7 @@ The canonically socially standard JS/TS framework
    1. [How was it created?](#how-was-it-created)
    1. [How to install it](#how-to-install-it)
    1. [How to run it](#how-to-run-it)
-1. [Idea][def]
+1. [Idea][#idea]
    1. [Design](#design)
 1. [Credits](#credits)
 
