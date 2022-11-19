@@ -11,7 +11,8 @@ The canonically socially standard JS/TS framework
    1. [How was it created?](#how-was-it-created)
    1. [How to install it](#how-to-install-it)
    1. [How to run it](#how-to-run-it)
-1. [Idea](#idea)
+1. [Idea][def]
+   1. [Design](#design)
 1. [Credits](#credits)
 
 ## Description
@@ -78,6 +79,18 @@ pnpm run dev
 Following the thought that this will be some sort of vscode extension.
 
 Something that would be really nice to sort of integrate in my/any other workflow would be some kind of notebook per file/folder, with the possibility to visualize TODOs, FIXMEs (and custom keywords even) and have some locally stored (at least for now), notepad, per file. That'd be useful, or at least as an idea.
+
+### Design
+
+[Back to the idea](#idea)
+
+![Main conceptual design for a vscode extension](./design/main.svg)
+
+## TODO
+
+[Back to the contents](#content)
+
+- [ ] Implement an accesibility strategy (tab key integration, aria-labels, titles, colors, etc.)
 
 ## Credits
 
