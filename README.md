@@ -22,6 +22,10 @@ The canonically socially standard JS/TS framework
 
 As an starting point, I really don't have that much of an idea of what I really want to do with this project, I just want to create something with svelte, I've head it's used for vscode extensions, so maybe I'll do just that.
 
+Deployed at: [https://jofaval.github.io/svelte-the-handsome/](https://jofaval.github.io/svelte-the-handsome/)
+
+- For visual purposes only, won't be functional there
+
 ## Tech stack
 
 [Back to the contents](#content)
